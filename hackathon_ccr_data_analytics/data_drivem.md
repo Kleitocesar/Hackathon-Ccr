@@ -28,7 +28,7 @@ Ainda, com objetivo de tornar o processamento do modelo mais leve, utilizamos so
 
 ![Matriz de Confusão - Dados de holdout](resources/conf_held.jpg)
 
-**O processode desenvolvimento do modelo pode ser encontrado neste [Jupyter Notebook](/notebooks/motion_detencion.ipynb)**
+**O processode desenvolvimento do modelo pode ser encontrado neste [Jupyter Notebook](/hackathon_ccr_data_analytics/notebooks/motion_detencion.ipynb)**
 
 
 ## Execução em produção
